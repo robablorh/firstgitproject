@@ -1,0 +1,20 @@
+body{
+
+	margin: 0;
+
+	background color: aliceblue;
+
+
+}
+
+.btn{
+	background: pink;
+	padding: 20px 40px;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px gray;
+    text-decoration: none;
+    color: black;
+    margin-top: 18rem;
+    width: 200px;
+    margin-left: 40rem;
+}
